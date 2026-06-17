@@ -1,6 +1,23 @@
-<!-- Header Banner -->
+<!-- Inline SVG Header Banner (100% Reliable, Instant Rendering) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Anurag%20Raj&fontSize=75&fontColor=ff5e62&animation=fadeIn&desc=MLOps%20%26%20AI%20Platform%20Engineer&descSize=22&descColor=ffbc42" width="100%"/>
+  <svg width="850" height="190" viewBox="0 0 850 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="850" height="190" rx="15" fill="#0d1117"/>
+    <defs>
+      <linearGradient id="headerGrad" x1="0" y1="0" x2="850" y2="190" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#ff5e62"/>
+        <stop offset="0.5" stop-color="#ff9966"/>
+        <stop offset="1" stop-color="#ffbc42"/>
+      </linearGradient>
+    </defs>
+    
+    <!-- Abstract Grand Line Wave Background -->
+    <path d="M 0 110 C 250 40, 600 210, 850 120 L 850 190 L 0 190 Z" fill="url(#headerGrad)" opacity="0.12"/>
+    <path d="M 0 130 C 200 70, 650 230, 850 150 L 850 190 L 0 190 Z" fill="url(#headerGrad)" opacity="0.25"/>
+    
+    <!-- Title Text -->
+    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="url(#headerGrad)" letter-spacing="4">ANURAG RAJ</text>
+    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#a7f3d0" letter-spacing="2">MLOPS &amp; AI PLATFORM ENGINEER</text>
+  </svg>
 </p>
 
 <!-- Dynamic Typing SVG & Visitor Counter -->
@@ -59,55 +76,64 @@
 
 ## 🗺️ The Grand Line: MLOps Career Voyage
 
-Here is the roadmap of my journey, mapping my professional progression from a student to my current role as an MLOps Engineer at SERENT:
+Here is the roadmap of my journey, mapping my professional progression in a zig-zag path from a student to my current role as an MLOps Engineer at SERENT:
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'background': '#0d1117', 'primaryColor': '#161b22', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#161b22', 'lineColor': '#ffbc42' }}}%%
-flowchart TD
-    subgraph GrandLine["🏴‍☠️ THE GRAND LINE: ANURAG'S MLOPS VOYAGE 🏴‍☠️"]
-        Student["🎓 THE EAST BLUE: Student Days
-        (ITM University B.Tech • Math & CS Fundamentals)
-        🎯 Ingestion of Knowledge: Python, ML models, & PySpark
-        🥇 Published 45+ Kaggle Notebooks (Rank #90 Master)"]
-        -->
-        Intern1["⚓ ENTERING THE GRAND LINE: MVDSS ML Intern
-        (Price Elasticity & Recommenders)
-        🔄 Orchestrating Databrick pipelines with PySpark
-        📈 15% improvement in recommendation accuracy"]
-        -->
-        Intern2["🐳 WATER 7: Deepnet MLOps Intern
-        (Computer Vision & Containerization)
-        📦 Deployed CVAT & Task-Creators on AWS EC2/RDS/S3
-        ⚡ 40% reduction in deployment setup time via Docker & Terraform"]
-        -->
-        Intern3["🔮 SABAODY ARCHIPELAGO: USEReady ML Intern
-        (Multi-Agent RAG Platforms)
-        🧠 Developed Supervisor-Worker agentic frameworks on Snowflake
-        🔍 Built two-stage hybrid retrieval pipelines (BM25 + Vector Search)"]
-        -->
-        Engineer["👑 THE NEW WORLD: MLOps Engineer @ SERENT
-        (Production Deployment & Scaling)
-        ☁️ Serverless APIs (FastAPI + Hugging Face BERT)
-        🚀 Deployed sub-500ms cold-start services on GCP Cloud Run & AWS"]
-        -->
-        Monitoring["📡 THE PIRATE KING'S HORIZON: Continuous Monitoring & Retraining
-        (Observability & Retraining Loops)
-        📊 Drift detection via Evidently AI + Prometheus + Grafana
-        🤖 Auto-Agent Skill Builder: LLM-powered self-learning workflows"]
-    end
-
-    classDef studentStyle fill:#161b22,stroke:#a7f3d0,stroke-width:2px,color:#e2e8f0;
-    classDef internStyle fill:#161b22,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0;
-    classDef engineerStyle fill:#161b22,stroke:#ff5e62,stroke-width:2px,color:#e2e8f0;
-    classDef monitorStyle fill:#161b22,stroke:#34d399,stroke-width:2px,color:#e2e8f0;
-
-    class Student studentStyle;
-    class Intern1,Intern2,Intern3 internStyle;
-    class Engineer engineerStyle;
-    class Monitoring monitorStyle;
+<!-- Custom Vector Zig-Zag Career Voyage Map (SVG format) -->
+<p align="center">
+  <svg width="850" height="520" viewBox="0 0 850 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Winding Voyage Path (Golden Dotted Line) -->
+    <path d="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430" stroke="#ffbc42" stroke-width="4" stroke-dasharray="8 6" />
     
-    style GrandLine fill:#0d1117,stroke:#ffbc42,stroke-width:3px,color:#e2e8f0
-```
+    <!-- Ship Icons or Arrows along the path -->
+    <text x="425" y="80" font-size="20" fill="#ffbc42">⛵</text>
+    <text x="685" y="175" font-size="20" fill="#ffbc42">⛵</text>
+    <text x="425" y="250" font-size="20" fill="#ffbc42">⛵</text>
+    <text x="165" y="345" font-size="20" fill="#ffbc42">⛵</text>
+    <text x="425" y="420" font-size="20" fill="#ffbc42">⛵</text>
+
+    <!-- Node 1: East Blue (Student) -->
+    <rect x="50" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#a7f3d0" stroke-width="2" />
+    <text x="175" y="65" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#a7f3d0">🎓 1. THE EAST BLUE (Student)</text>
+    <text x="175" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">ITM University B.Tech CSE</text>
+    <text x="175" y="105" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Kaggle Notebook Master (#90)</text>
+    <text x="175" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Python, ML Models, PySpark</text>
+
+    <!-- Node 2: Entering Grand Line (MVDSS) -->
+    <rect x="550" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#38bdf8" stroke-width="2" />
+    <text x="675" y="65" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#38bdf8">⚓ 2. MVDSS (ML Intern)</text>
+    <text x="675" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Price Elasticity &amp; Recommenders</text>
+    <text x="675" y="105" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Databricks &amp; PySpark Pipelines</text>
+    <text x="675" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">15% Recommendation Acc Boost</text>
+
+    <!-- Node 3: Water 7 (Deepnet) -->
+    <rect x="550" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f472b6" stroke-width="2" />
+    <text x="675" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#f472b6">🐳 3. WATER 7 (Deepnet Intern)</text>
+    <text x="675" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">MLOps &amp; Computer Vision</text>
+    <text x="675" y="275" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Deployed CVAT on AWS EC2/S3</text>
+    <text x="675" y="295" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Dockerized Pipelines &amp; Terraform</text>
+
+    <!-- Node 4: Sabaody (USEReady) -->
+    <rect x="50" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f87171" stroke-width="2" />
+    <text x="175" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#f87171">🔮 4. SABAODY (USEReady)</text>
+    <text x="175" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Machine Learning Intern</text>
+    <text x="175" y="275" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Snowflake Multi-Agent RAG</text>
+    <text x="175" y="295" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Langfuse &amp; Hybrid BM25 Search</text>
+
+    <!-- Node 5: New World (SERENT) -->
+    <rect x="50" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#ff5e62" stroke-width="2" />
+    <text x="175" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62">👑 5. NEW WORLD (SERENT)</text>
+    <text x="175" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">MLOps Engineer</text>
+    <text x="175" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Production Scaling &amp; Cloud Run</text>
+    <text x="175" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Serverless APIs &amp; CI/CD Tagging</text>
+
+    <!-- Node 6: Pirate King (Monitoring & Learning) -->
+    <rect x="550" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#34d399" stroke-width="2" />
+    <text x="675" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399">📡 6. THE HORIZON (MLOps)</text>
+    <text x="675" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Continuous Drift &amp; Retraining</text>
+    <text x="675" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Evidently AI &amp; Grafana Loops</text>
+    <text x="675" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Auto-Agent Skill Builder &amp; MCP</text>
+  </svg>
+</p>
 
 ---
 
@@ -202,7 +228,11 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
   <!-- Project Row 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Anurag-raj03/Auto-agent-skill-builder">Auto-Agent Skill Builder</a></h4>
+      <br/>
+      <a href="https://github.com/Anurag-raj03/Auto-agent-skill-builder">
+        <img src="https://img.shields.io/badge/🤖_Auto--Agent_Skill_Builder-ff5e62?style=for-the-badge&logo=openai&logoColor=white" alt="Auto-Agent Skill Builder" />
+      </a>
+      <br/><br/>
       <p>Autonomous multi-agent system built on the OpenAI Agents SDK that routes requests, synthesizes knowledge, and writes its own tools dynamically.</p>
       <ul>
         <li><b>Background Synthesizer (ASSE):</b> Analyzes user dialogue and generates reusable Markdown tools and Python scripts.</li>
@@ -216,7 +246,11 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🩺 <a href="https://github.com/Anurag-raj03/BERT_ASSIGNMENT_MLOPS">Clinical Assertion BERT API</a></h4>
+      <br/>
+      <a href="https://github.com/Anurag-raj03/BERT_ASSIGNMENT_MLOPS">
+        <img src="https://img.shields.io/badge/🩺_Clinical_Assertion_BERT_API-ffbc42?style=for-the-badge&logo=fastapi&logoColor=white" alt="Clinical Assertion BERT API" />
+      </a>
+      <br/><br/>
       <p>FastAPI inference service for clinical text assertion negation, optimized for instant, serverless execution on Google Cloud Run.</p>
       <ul>
         <li><b>⚡ Sub-500ms Cold Starts:</b> Hugging Face model weights baked directly into container layers during build.</li>
@@ -234,7 +268,11 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
   <!-- Project Row 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h4>💡 <a href="https://github.com/Anurag-raj03/AI-KnowledgeHub">AI-KnowledgeHub LLMOps Platform</a></h4>
+      <br/>
+      <a href="https://github.com/Anurag-raj03/AI-KnowledgeHub">
+        <img src="https://img.shields.io/badge/💡_AI--KnowledgeHub_LLMOps-38bdf8?style=for-the-badge&logo=langchain&logoColor=white" alt="AI-KnowledgeHub LLMOps Platform" />
+      </a>
+      <br/><br/>
       <p>Full-fledged LLMOps platform integrating retrieval pipelines, multi-agent evaluation, and persistent dashboards.</p>
       <ul>
         <li><b>LangGraph Swarm:</b> Structured supervisor-worker agent framework containing retrievers, summarizers, and evaluators.</li>
@@ -248,7 +286,11 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🕹️ <a href="https://github.com/Anurag-raj03/Rock-Paper-Scissors-MLOps">Rock-Paper-Scissors MLOps Pipeline</a></h4>
+      <br/>
+      <a href="https://github.com/Anurag-raj03/Rock-Paper-Scissors-MLOps">
+        <img src="https://img.shields.io/badge/🕹️_Rock--Paper--Scissors_MLOps-34d399?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Rock-Paper-Scissors MLOps Pipeline" />
+      </a>
+      <br/><br/>
       <p>End-to-end computer vision MLOps project classifying hand gestures and deployed with automatic CI/CD workflows.</p>
       <ul>
         <li><b>MobileNetV2:</b> Achieved 98% accuracy on gesture classifications.</li>
@@ -292,11 +334,30 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 ---
 
-## 📊 Trophies & Streaks
+## 🏆 Achievements & Pirate Bounties
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-raj03&theme=tokyonight" alt="Anurag's GitHub Trophies" />
-</p>
+<!-- Custom Styled Trophy Cabinet (100% Reliable, Instant Rendering) -->
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" style="background: #161b22; border: 1px solid #ffbc42; border-radius: 8px; padding: 10px;">
+      <font size="5">👑</font><br/>
+      <b>Kaggle Notebook Master</b><br/>
+      <sub>Top 100 Globally (Rank #90)</sub>
+    </td>
+    <td width="34%" align="center" style="background: #161b22; border: 1px solid #ff5e62; border-radius: 8px; padding: 10px;">
+      <font size="5">⚔️</font><br/>
+      <b>Hackathon Finalist</b><br/>
+      <sub>3x National &amp; 1x International</sub>
+    </td>
+    <td width="33%" align="center" style="background: #161b22; border: 1px solid #34d399; border-radius: 8px; padding: 10px;">
+      <font size="5">⛵</font><br/>
+      <b>MLOps Engineer</b><br/>
+      <sub>Navigating at SERENT</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <table width="100%">
   <tr>
