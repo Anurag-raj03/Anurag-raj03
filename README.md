@@ -63,7 +63,7 @@
       <br/>
       <img src="https://skillicons.dev/icons?i=gcp,postgres,githubactions,terraform&theme=dark" width="180" alt="Tech Grid Row 4" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=redis,fastapi,streamlit,prometheus,grafana&theme=dark" width="225" alt="Tech Grid Row 5" />
+      <img src="https://skillicons.dev/icons?i=redis,fastapi,airflow,prometheus,grafana&theme=dark" width="225" alt="Tech Grid Row 5" />
       <br/><br/>
       <sub><b>Crew's Navigation Tools</b></sub>
     </td>
