@@ -245,18 +245,27 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <b>USEReady</b> (ML Intern)<br/><br/>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.linkedin.com/company/useready/">
+        <img src="https://img.shields.io/badge/🔮_USEReady-ML_Intern-ff5e62?style=for-the-badge&logo=openai&logoColor=white" alt="USEReady Internship Badge" />
+      </a>
+      <br/><br/>
       <img src="./USEReady experince certificate.jpeg" width="100%" alt="USEReady Certificate" /><br/>
       <sub>RAG & Multi-Agent systems</sub>
     </td>
-    <td width="33%" align="center">
-      <b>Deepnet Analytics</b> (MLOps Intern)<br/><br/>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.linkedin.com/company/deepnet-analytics/">
+        <img src="https://img.shields.io/badge/🐳_Deepnet-MLOps_Intern-ffbc42?style=for-the-badge&logo=docker&logoColor=white" alt="Deepnet Internship Badge" />
+      </a>
+      <br/><br/>
       <img src="./Deepnet expernice certificate.jpeg" width="100%" alt="Deepnet Certificate" /><br/>
       <sub>Docker pipelines & CVAT PPE</sub>
     </td>
-    <td width="34%" align="center">
-      <b>MVDSS Services</b> (ML Intern)<br/><br/>
+    <td width="34%" align="center" valign="top">
+      <a href="https://www.linkedin.com/company/mvdss-services/">
+        <img src="https://img.shields.io/badge/⚓_MVDSS-ML_Intern-38bdf8?style=for-the-badge&logo=python&logoColor=white" alt="MVDSS Internship Badge" />
+      </a>
+      <br/><br/>
       <img src="./MVDSS experince certificate.jpeg" width="100%" alt="MVDSS Certificate" /><br/>
       <sub>Recommenders & Price Elasticity</sub>
     </td>
@@ -267,26 +276,10 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 ## 🏆 Achievements & Pirate Bounties
 
-<!-- Custom Styled Trophy Cabinet (100% Reliable, Instant Rendering) -->
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" style="background: #161b22; border: 1px solid #ffbc42; border-radius: 8px; padding: 10px;">
-      <font size="5">👑</font><br/>
-      <b>Kaggle Notebook Master</b><br/>
-      <sub>Top 100 Globally (Rank #90)</sub>
-    </td>
-    <td width="34%" align="center" style="background: #161b22; border: 1px solid #ff5e62; border-radius: 8px; padding: 10px;">
-      <font size="5">⚔️</font><br/>
-      <b>Hackathon Finalist</b><br/>
-      <sub>3x National &amp; 1x International</sub>
-    </td>
-    <td width="33%" align="center" style="background: #161b22; border: 1px solid #34d399; border-radius: 8px; padding: 10px;">
-      <font size="5">⛵</font><br/>
-      <b>MLOps Engineer</b><br/>
-      <sub>Navigating at SERENT</sub>
-    </td>
-  </tr>
-</table>
+<!-- Custom Styled Wanted Poster Board (Reference to assets/bounties.svg) -->
+<p align="center">
+  <img src="./assets/bounties.svg" width="100%" alt="Achievements & Bounties" />
+</p>
 
 <br/>
 
@@ -307,6 +300,14 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 <p align="center">
   <!-- Note: This image will display a broken link until you run the Generate Snake Animation workflow in your repository for the first time! -->
   <img src="https://raw.githubusercontent.com/Anurag-raj03/Anurag-raj03/output/github-contribution-grid-snake-dark.svg" alt="Snake game grid animation" />
+</p>
+
+---
+
+<!-- Centered One Piece Anime Logo Signature -->
+<p align="center">
+  <img src="./One_Piece_Anime_Logo.webp" width="320" alt="One Piece Logo" /><br/>
+  <sub><b>"The Grand Line is waiting for us!" 🏴‍☠️</b></sub>
 </p>
 
 ---
