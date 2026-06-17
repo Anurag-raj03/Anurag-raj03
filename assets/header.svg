@@ -1,0 +1,18 @@
+<svg width="850" height="190" viewBox="0 0 850 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="190" rx="15" fill="#0d1117"/>
+  <defs>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="850" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff5e62"/>
+      <stop offset="0.5" stop-color="#ff9966"/>
+      <stop offset="1" stop-color="#ffbc42"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Abstract Grand Line Wave Background -->
+  <path d="M 0 110 C 250 40, 600 210, 850 120 L 850 190 L 0 190 Z" fill="url(#headerGrad)" opacity="0.12"/>
+  <path d="M 0 130 C 200 70, 650 230, 850 150 L 850 190 L 0 190 Z" fill="url(#headerGrad)" opacity="0.25"/>
+  
+  <!-- Title Text -->
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="url(#headerGrad)" letter-spacing="4">ANURAG RAJ</text>
+  <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#a7f3d0" letter-spacing="2">MLOPS &amp; AI PLATFORM ENGINEER</text>
+</svg>
