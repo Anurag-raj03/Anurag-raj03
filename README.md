@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge" />
       </td>
       <td style="border: none; background: transparent;">
-        <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=700&size=16&color=ffbc42&background=00000000&width=650&lines=%22If+you+don't+take+risks,+you+can't+create+a+future!%22;%22If+I+die+trying,+then+at+least+I+tried!%22;%22No+matter+how+impossible,+never+lose+sight+of+your+goal!%22" alt="Luffy Quote" />
+        <img src="./assets/luffy-quotes.svg" width="650" alt="Luffy Quotes" />
       </td>
     </tr>
   </table>
@@ -55,7 +55,9 @@
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- Straw Hat Theme Representation -->
-      <img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,aws,gcp,postgres,githubactions,terraform,redis,fastapi,streamlit&theme=dark" width="220px" alt="Tech Grid" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,aws,gcp&theme=dark" width="260" alt="Tech Grid Row 1" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=postgres,githubactions,terraform,redis,fastapi,streamlit&theme=dark" width="260" alt="Tech Grid Row 2" />
       <br/><br/>
       <sub><b>Crew's Navigation Tools</b></sub>
     </td>

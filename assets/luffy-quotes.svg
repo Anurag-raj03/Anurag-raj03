@@ -1,0 +1,23 @@
+<svg width="650" height="30" viewBox="0 0 650 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Quote 1: Yellow -->
+  <g opacity="0">
+    <text x="0" y="20" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#ffbc42">
+      "If you don't take risks, you can't create a future!"
+    </text>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" repeatCount="indefinite" />
+  </g>
+  <!-- Quote 2: Red/Coral -->
+  <g opacity="0">
+    <text x="0" y="20" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#ff5e62">
+      "If I die trying, then at least I tried!"
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.61;0.66;1" dur="12s" repeatCount="indefinite" />
+  </g>
+  <!-- Quote 3: Light Blue -->
+  <g opacity="0">
+    <text x="0" y="20" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#38bdf8">
+      "No matter how impossible, never lose sight of your goal!"
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.71;0.95;1" dur="12s" repeatCount="indefinite" />
+  </g>
+</svg>
