@@ -31,7 +31,9 @@
 
 <blockquote>
   <p align="left">
-    <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge"/> <b>"If you don't take risks, you can't create a future!"</b>
+    <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge" style="vertical-align: middle;" /> 
+    &nbsp;
+    <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=600&size=16&color=ff5e62&background=00000000&width=450&lines=If+you+don't+take+risks,+you+can't+create+a+future!" alt="Luffy Quote" style="vertical-align: middle;" />
   </p>
 </blockquote>
 
@@ -304,7 +306,7 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 ---
 
-## 🎵 Animated Quotes & Inspirations
+## 🐌 Den Den Mushi Broadcasts (Quotes & Inspirations)
 <p align="center">
   <img src="./assets/quotes.svg" width="100%" alt="Animated Streaming Quotes" />
 </p>
@@ -313,9 +315,9 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 <!-- Centered One Piece Anime Logo Signature with Typing Animation Subtitle -->
 <p align="center">
-  <img src="./One_Piece_Anime_Logo.webp" width="450" alt="One Piece Logo" />
+  <img src="./One_Piece_Anime_Logo.webp" width="320" alt="One Piece Logo" />
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=800&size=24&pause=1500&color=ffbc42&background=00000000&center=true&vCenter=true&width=600&lines=THE+GRAND+LINE+IS+WAITING+FOR+US!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;BECOME+THE+PIRATE+KING+OF+MLOPS!+%F0%9F%91%91" alt="Animated One Piece Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=800&size=20&pause=1500&color=ffbc42&background=00000000&center=true&vCenter=true&width=500&lines=THE+GRAND+LINE+IS+WAITING+FOR+US!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;BECOME+THE+PIRATE+KING+OF+MLOPS!+%F0%9F%91%91" alt="Animated One Piece Tagline" />
 </p>
 
 <p align="center">
