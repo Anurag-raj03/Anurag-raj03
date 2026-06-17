@@ -55,9 +55,11 @@
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- Straw Hat Theme Representation -->
-      <img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,aws,gcp&theme=dark" width="260" alt="Tech Grid Row 1" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" width="90" alt="Tech Grid Row 1" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=postgres,githubactions,terraform,redis,fastapi,streamlit&theme=dark" width="260" alt="Tech Grid Row 2" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark" width="180" alt="Tech Grid Row 2" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=postgres,githubactions,terraform,redis,fastapi,streamlit&theme=dark" width="270" alt="Tech Grid Row 3" />
       <br/><br/>
       <sub><b>Crew's Navigation Tools</b></sub>
     </td>
