@@ -3,56 +3,100 @@
   
   <!-- Quote 1: Luffy -->
   <g opacity="0">
-    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ff5e62" font-style="italic">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ff5e62" font-style="italic">
       "If you don't take risks, you can't create a future!"
     </text>
-    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
       — Monkey D. Luffy
     </text>
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.18;0.20;1" dur="25s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.10;0.11;1" dur="36s" repeatCount="indefinite" />
   </g>
 
   <!-- Quote 2: Zoro -->
   <g opacity="0">
-    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#38bdf8" font-style="italic">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#38bdf8" font-style="italic">
       "When I decided to follow my dream, I had already discarded my life."
     </text>
-    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
       — Roronoa Zoro
     </text>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20;0.22;0.38;0.40;1" dur="25s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.11;0.12;0.21;0.22;1" dur="36s" repeatCount="indefinite" />
   </g>
 
   <!-- Quote 3: Sanji -->
   <g opacity="0">
-    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ffbc42" font-style="italic">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#ffbc42" font-style="italic">
       "It doesn't matter who you are, I will never turn away someone who is hungry!"
     </text>
-    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
       — Vinsmoke Sanji
     </text>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.40;0.42;0.58;0.60;1" dur="25s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22;0.23;0.32;0.33;1" dur="36s" repeatCount="indefinite" />
   </g>
 
   <!-- Quote 4: Brook -->
   <g opacity="0">
-    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#f472b6" font-style="italic">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#f472b6" font-style="italic">
       "No matter how deep the darkness, the light of dawn will always break through."
     </text>
-    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
       — Brook
     </text>
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60;0.62;0.78;0.80;1" dur="25s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.43;0.44;1" dur="36s" repeatCount="indefinite" />
   </g>
 
-  <!-- Quote 5: MLOps -->
+  <!-- Quote 5: Dr. Hiluluk -->
   <g opacity="0">
-    <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="17" font-weight="bold" fill="#34d399" font-style="italic">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#f87171" font-style="italic">
+      "A man dies when he is forgotten!"
+    </text>
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+      — Dr. Hiluluk
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.44;0.45;0.54;0.55;1" dur="36s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Quote 6: Whitebeard -->
+  <g opacity="0">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#fbcfe8" font-style="italic">
+      "The One Piece... is real!"
+    </text>
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+      — Edward Newgate (Whitebeard)
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55;0.56;0.65;0.66;1" dur="36s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Quote 7: Shanks -->
+  <g opacity="0">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#a7f3d0" font-style="italic">
+      "By experiencing victory and defeat, running away and shedding tears, a man will grow up."
+    </text>
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+      — Shanks
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.67;0.76;0.77;1" dur="36s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Quote 8: Doflamingo -->
+  <g opacity="0">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="bold" fill="#e9d5ff" font-style="italic">
+      "Justice will prevail? Of course it will! Whoever wins this war becomes justice!"
+    </text>
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+      — Donquixote Doflamingo
+    </text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.77;0.78;0.87;0.88;1" dur="36s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Quote 9: MLOps -->
+  <g opacity="0">
+    <text x="50%" y="48%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="17" font-weight="bold" fill="#34d399" font-style="italic">
       "No matter how deep the ocean of data, MLOps will guide the ship to production."
     </text>
-    <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
+    <text x="50%" y="78%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">
       — MLOps Navigator
     </text>
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.80;0.82;0.98;1" dur="25s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.88;0.89;0.98;1" dur="36s" repeatCount="indefinite" />
   </g>
 </svg>
