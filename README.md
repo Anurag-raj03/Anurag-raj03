@@ -32,11 +32,11 @@
 <blockquote>
   <table>
     <tr valign="middle">
-      <td>
+      <td style="border: none; background: transparent;">
         <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge" />
       </td>
-      <td>
-        <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=700&size=16&color=ffbc42&background=00000000&width=450&lines=If+you+don't+take+risks,+you+can't+create+a+future!" alt="Luffy Quote" />
+      <td style="border: none; background: transparent;">
+        <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=700&size=16&color=ffbc42&background=00000000&width=650&lines=%22If+you+don't+take+risks,+you+can't+create+a+future!%22;%22If+I+die+trying,+then+at+least+I+tried!%22;%22No+matter+how+impossible,+never+lose+sight+of+your+goal!%22" alt="Luffy Quote" />
       </td>
     </tr>
   </table>
