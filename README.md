@@ -54,12 +54,16 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- Straw Hat Theme Representation -->
-      <img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" width="90" alt="Tech Grid Row 1" />
+      <!-- Straw Hat Theme Representation (1-2-3-4-5 Pyramid Layout) -->
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Tech Grid Row 1" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark" width="180" alt="Tech Grid Row 2" />
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" width="90" alt="Tech Grid Row 2" />
       <br/>
-      <img src="https://skillicons.dev/icons?i=postgres,githubactions,terraform,redis,fastapi,streamlit&theme=dark" width="270" alt="Tech Grid Row 3" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" width="135" alt="Tech Grid Row 3" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=gcp,postgres,githubactions,terraform&theme=dark" width="180" alt="Tech Grid Row 4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=redis,fastapi,streamlit,prometheus,grafana&theme=dark" width="225" alt="Tech Grid Row 5" />
       <br/><br/>
       <sub><b>Crew's Navigation Tools</b></sub>
     </td>
