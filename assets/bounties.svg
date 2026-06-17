@@ -24,7 +24,7 @@
   <circle cx="155" cy="130" r="45" fill="#1f2937" stroke="#34d399" stroke-width="2"/>
   <text x="155" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">⚔️</text>
   <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
-  <image href="zoro.png" x="110" y="85" width="90" height="90" clip-path="url(#circleLeft)" />
+  <image href="../zoro.jpeg" x="110" y="85" width="90" height="90" clip-path="url(#circleLeft)" />
   <!-- Details -->
   <text x="155" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" letter-spacing="1">HACKATHON CHAMP</text>
   <text x="155" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Winners &amp; Finalists</text>
@@ -41,7 +41,7 @@
   <circle cx="425" cy="130" r="45" fill="#1f2937" stroke="#ffbc42" stroke-width="2"/>
   <text x="425" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">👑</text>
   <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
-  <image href="luffy.png" x="380" y="85" width="90" height="90" clip-path="url(#circleMiddle)" />
+  <image href="../luffy.jpg" x="380" y="85" width="90" height="90" clip-path="url(#circleMiddle)" />
   <!-- Details -->
   <text x="425" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffbc42" letter-spacing="1">KAGGLE MASTER</text>
   <text x="425" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Top 100 Globally (Rank #90)</text>
@@ -58,7 +58,7 @@
   <circle cx="695" cy="130" r="45" fill="#1f2937" stroke="#ff5e62" stroke-width="2"/>
   <text x="695" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">⛵</text>
   <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
-  <image href="sanji.png" x="650" y="85" width="90" height="90" clip-path="url(#circleRight)" />
+  <image href="../sanji.jpg" x="650" y="85" width="90" height="90" clip-path="url(#circleRight)" />
   <!-- Details -->
   <text x="695" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62" letter-spacing="1">MLOPS ENGINEER</text>
   <text x="695" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Navigating at SERENT</text>
