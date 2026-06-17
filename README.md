@@ -30,11 +30,16 @@
 ## 🏴‍☠️ The Captain's Log (About Me)
 
 <blockquote>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge" style="vertical-align: middle;" /> 
-    &nbsp;
-    <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=600&size=16&color=ff5e62&background=00000000&width=450&lines=If+you+don't+take+risks,+you+can't+create+a+future!" alt="Luffy Quote" style="vertical-align: middle;" />
-  </p>
+  <table>
+    <tr valign="middle">
+      <td>
+        <img src="https://img.shields.io/badge/Monkey%20D.%20Luffy-🍖-red?style=flat-square" alt="Luffy Badge" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.demolab.com?font=system-ui&weight=700&size=16&color=ffbc42&background=00000000&width=450&lines=If+you+don't+take+risks,+you+can't+create+a+future!" alt="Luffy Quote" />
+      </td>
+    </tr>
+  </table>
 </blockquote>
 
 <table width="100%">
