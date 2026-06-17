@@ -55,7 +55,7 @@
     </td>
     <td width="35%" align="center" valign="middle">
       <!-- Straw Hat Theme Representation (Animated Vector Skills Pyramid) -->
-      <img src="./assets/skills-pyramid.svg" width="300" alt="Animated Crew's Navigation Tools" />
+      <img src="./assets/skills-pyramid.svg?v=3" width="300" alt="Animated Crew's Navigation Tools" />
       <br/><br/>
       <sub><b>Crew's Navigation Tools</b></sub>
     </td>
