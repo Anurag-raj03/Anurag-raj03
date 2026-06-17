@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Anurag%20Raj&fontSize=75&fontAlignY=40&fontColor=ff5e62&animation=fadeIn&desc=MLOps%20%26%20AI%20Platform%20Engineer&descSize=22&descAlignY=62&descColor=ffbc42" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Anurag%20Raj&fontSize=75&fontColor=ff5e62&animation=fadeIn&desc=MLOps%20%26%20AI%20Platform%20Engineer&descSize=22&descColor=ffbc42" width="100%"/>
 </p>
 
 <!-- Dynamic Typing SVG & Visitor Counter -->
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Anurag-raj03/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Anurag-raj03&color=ff5e62&style=flat-square" alt="Visitor Counter" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anurag-raj-770b6524a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -57,30 +57,56 @@
 
 ---
 
-## 🗺️ The MLOps Grand Line Voyage
+## 🗺️ The Grand Line: MLOps Career Voyage
 
-Here is how I navigate the lifecycle of machine learning models from data ingestion to production monitoring:
+Here is the roadmap of my journey, mapping my professional progression from a student to my current role as an MLOps Engineer at SERENT:
 
 ```mermaid
-flowchart LR
-    %% Grand Line Voyage style
-    subgraph GrandLine["⛵ THE MLOPS GRAND LINE VOYAGE ⛵"]
-        Ingestion["📦 INGESTION<br/>(DVC & S3)"] --> Airflow["🌪️ ORCHESTRATION<br/>(Apache Airflow)"]
-        Airflow --> Memory["🧬 SEMANTIC MEMORY<br/>(ChromaDB & Neo4j)"]
-        Memory --> Training["🧠 TRAINING & REGISTRY<br/>(MLflow & Langfuse)"]
-        Training --> Docker["🐳 CONTAINERIZATION<br/>(Docker)"]
-        Docker --> Cloud["☁️ DEPLOYMENT<br/>(GCP & AWS)"]
-        Cloud --> Monitoring["📡 MONITORING<br/>(Evidently & Grafana)"]
+%%{init: {'theme': 'dark', 'themeVariables': { 'background': '#0d1117', 'primaryColor': '#161b22', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#161b22', 'lineColor': '#ffbc42' }}}%%
+flowchart TD
+    subgraph GrandLine["🏴‍☠️ THE GRAND LINE: ANURAG'S MLOPS VOYAGE 🏴‍☠️"]
+        Student["🎓 THE EAST BLUE: Student Days
+        (ITM University B.Tech • Math & CS Fundamentals)
+        🎯 Ingestion of Knowledge: Python, ML models, & PySpark
+        🥇 Published 45+ Kaggle Notebooks (Rank #90 Master)"]
+        -->
+        Intern1["⚓ ENTERING THE GRAND LINE: MVDSS ML Intern
+        (Price Elasticity & Recommenders)
+        🔄 Orchestrating Databrick pipelines with PySpark
+        📈 15% improvement in recommendation accuracy"]
+        -->
+        Intern2["🐳 WATER 7: Deepnet MLOps Intern
+        (Computer Vision & Containerization)
+        📦 Deployed CVAT & Task-Creators on AWS EC2/RDS/S3
+        ⚡ 40% reduction in deployment setup time via Docker & Terraform"]
+        -->
+        Intern3["🔮 SABAODY ARCHIPELAGO: USEReady ML Intern
+        (Multi-Agent RAG Platforms)
+        🧠 Developed Supervisor-Worker agentic frameworks on Snowflake
+        🔍 Built two-stage hybrid retrieval pipelines (BM25 + Vector Search)"]
+        -->
+        Engineer["👑 THE NEW WORLD: MLOps Engineer @ SERENT
+        (Production Deployment & Scaling)
+        ☁️ Serverless APIs (FastAPI + Hugging Face BERT)
+        🚀 Deployed sub-500ms cold-start services on GCP Cloud Run & AWS"]
+        -->
+        Monitoring["📡 THE PIRATE KING'S HORIZON: Continuous Monitoring & Retraining
+        (Observability & Retraining Loops)
+        📊 Drift detection via Evidently AI + Prometheus + Grafana
+        🤖 Auto-Agent Skill Builder: LLM-powered self-learning workflows"]
     end
 
-    style GrandLine fill:#0d1117,stroke:#ff5e62,stroke-width:3px,color:#e2e8f0
-    style Ingestion fill:#161b22,stroke:#a7f3d0,color:#a7f3d0
-    style Airflow fill:#161b22,stroke:#38bdf8,color:#38bdf8
-    style Memory fill:#161b22,stroke:#f87171,color:#f87171
-    style Training fill:#161b22,stroke:#f472b6,color:#f472b6
-    style Docker fill:#161b22,stroke:#60a5fa,color:#60a5fa
-    style Cloud fill:#161b22,stroke:#fbbf24,color:#fbbf24
-    style Monitoring fill:#161b22,stroke:#34d399,color:#34d399
+    classDef studentStyle fill:#161b22,stroke:#a7f3d0,stroke-width:2px,color:#e2e8f0;
+    classDef internStyle fill:#161b22,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0;
+    classDef engineerStyle fill:#161b22,stroke:#ff5e62,stroke-width:2px,color:#e2e8f0;
+    classDef monitorStyle fill:#161b22,stroke:#34d399,stroke-width:2px,color:#e2e8f0;
+
+    class Student studentStyle;
+    class Intern1,Intern2,Intern3 internStyle;
+    class Engineer engineerStyle;
+    class Monitoring monitorStyle;
+    
+    style GrandLine fill:#0d1117,stroke:#ffbc42,stroke-width:3px,color:#e2e8f0
 ```
 
 ---
@@ -242,7 +268,7 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
 
 ## 📜 Professional Experience Verifications
 
-Here are the verifiable credentials from my professional internships and voyages as an MLOps & Machine Learning Intern:
+Here are the credentials from my professional internships as an MLOps & Machine Learning Intern:
 
 <table width="100%">
   <tr>
@@ -269,9 +295,7 @@ Here are the verifiable credentials from my professional internships and voyages
 ## 📊 Trophies & Streaks
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anurag-raj03&theme=tokyonight&no-bg=true&no-frame=true" alt="Anurag's GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Anurag-raj03&theme=tokyonight" alt="Anurag's GitHub Trophies" />
 </p>
 
 <table width="100%">
@@ -280,7 +304,7 @@ Here are the verifiable credentials from my professional internships and voyages
       <img src="https://github-readme-stats.vercel.app/api?username=Anurag-raj03&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff5e62&icon_color=ffbc42&text_color=cbd5e1&bg_color=0d1117" width="100%" alt="Anurag's GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-raj03&theme=tokyonight&hide_border=true&background=0d1117&title=ff5e62&ring=ff5e62&fire=ffbc42&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" width="100%" alt="Anurag's Streak Stats" />
+      <img src="https://streak-stats.demolab.com/?user=Anurag-raj03&theme=tokyonight&hide_border=true&background=0d1117&title=ff5e62&ring=ff5e62&fire=ffbc42&currStreakNum=cbd5e1&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" width="100%" alt="Anurag's Streak Stats" />
     </td>
   </tr>
 </table>
@@ -289,6 +313,7 @@ Here are the verifiable credentials from my professional internships and voyages
 
 ## ⚓ The Snake Game of Contribution
 <p align="center">
+  <!-- Note: This image will display a broken link until you run the Generate Snake Animation workflow in your repository for the first time! -->
   <img src="https://raw.githubusercontent.com/Anurag-raj03/Anurag-raj03/output/github-contribution-grid-snake-dark.svg" alt="Snake game grid animation" />
 </p>
 
