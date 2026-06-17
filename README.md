@@ -304,17 +304,18 @@ Here are the credentials from my professional internships as an MLOps & Machine 
 
 ---
 
-<!-- Centered One Piece Anime Logo Signature -->
+## 🎵 Animated Quotes & Inspirations
 <p align="center">
-  <img src="./One_Piece_Anime_Logo.webp" width="320" alt="One Piece Logo" /><br/>
-  <sub><b>"The Grand Line is waiting for us!" 🏴‍☠️</b></sub>
+  <img src="./assets/quotes.svg" width="100%" alt="Animated Streaming Quotes" />
 </p>
 
 ---
 
-## 🎵 BGM & Inspirations (Quote of the Day)
+<!-- Centered One Piece Anime Logo Signature with Typing Animation Subtitle -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+  <img src="./One_Piece_Anime_Logo.webp" width="450" alt="One Piece Logo" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Impact&weight=800&size=24&pause=1500&color=ffbc42&background=00000000&center=true&vCenter=true&width=600&lines=THE+GRAND+LINE+IS+WAITING+FOR+US!+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;BECOME+THE+PIRATE+KING+OF+MLOPS!+%F0%9F%91%91" alt="Animated One Piece Tagline" />
 </p>
 
 <p align="center">

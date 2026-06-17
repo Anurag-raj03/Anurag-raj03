@@ -2,46 +2,65 @@
   <!-- Solid Dark Canvas Background -->
   <rect width="850" height="340" rx="15" fill="#0d1117"/>
 
-  <!-- Wanted Poster 1: Kaggle Notebook Master -->
-  <rect x="40" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#ffbc42" stroke-width="3"/>
+  <defs>
+    <!-- Circular clip paths for Zoro, Luffy, and Sanji pictures -->
+    <clipPath id="circleLeft">
+      <circle cx="155" cy="130" r="45" />
+    </clipPath>
+    <clipPath id="circleMiddle">
+      <circle cx="425" cy="130" r="45" />
+    </clipPath>
+    <clipPath id="circleRight">
+      <circle cx="695" cy="130" r="45" />
+    </clipPath>
+  </defs>
+
+  <!-- Wanted Poster 1: Hackathon Champ (Zoro) - Left -->
+  <rect x="40" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#34d399" stroke-width="3"/>
   <!-- Wanted header banner -->
-  <rect x="40" y="20" width="230" height="40" rx="0" fill="#ffbc42"/>
+  <rect x="40" y="20" width="230" height="40" rx="0" fill="#34d399"/>
   <text x="155" y="48" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="22" font-weight="900" fill="#0d1117" letter-spacing="4">WANTED</text>
-  <!-- Icon in Center -->
-  <circle cx="155" cy="130" r="45" fill="#1f2937" stroke="#ff5e62" stroke-width="2"/>
-  <text x="155" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">👑</text>
+  <!-- Circle Frame and Fallback -->
+  <circle cx="155" cy="130" r="45" fill="#1f2937" stroke="#34d399" stroke-width="2"/>
+  <text x="155" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">⚔️</text>
+  <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
+  <image href="zoro.png" x="110" y="85" width="90" height="90" clip-path="url(#circleLeft)" />
   <!-- Details -->
-  <text x="155" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffbc42" letter-spacing="1">KAGGLE MASTER</text>
-  <text x="155" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Top 100 Globally (Rank #90)</text>
+  <text x="155" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" letter-spacing="1">HACKATHON CHAMP</text>
+  <text x="155" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Winners &amp; Finalists</text>
   <!-- Bounty -->
-  <rect x="60" y="260" width="190" height="35" rx="5" fill="#ff5e62" opacity="0.9"/>
-  <text x="155" y="283" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="16" fill="#ffffff" letter-spacing="1">฿ 90,000,000,000</text>
+  <rect x="60" y="260" width="190" height="35" rx="5" fill="#ffbc42" opacity="0.9"/>
+  <text x="155" y="283" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="16" fill="#0d1117" letter-spacing="1">฿ 350,000,000</text>
 
-  <!-- Wanted Poster 2: Hackathon Winner -->
-  <rect x="310" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#ff5e62" stroke-width="3"/>
+  <!-- Wanted Poster 2: Kaggle Notebook Master (Luffy) - Middle -->
+  <rect x="310" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#ffbc42" stroke-width="3"/>
   <!-- Wanted header banner -->
-  <rect x="310" y="20" width="230" height="40" rx="0" fill="#ff5e62"/>
+  <rect x="310" y="20" width="230" height="40" rx="0" fill="#ffbc42"/>
   <text x="425" y="48" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="22" font-weight="900" fill="#0d1117" letter-spacing="4">WANTED</text>
-  <!-- Icon in Center -->
+  <!-- Circle Frame and Fallback -->
   <circle cx="425" cy="130" r="45" fill="#1f2937" stroke="#ffbc42" stroke-width="2"/>
-  <text x="425" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">⚔️</text>
+  <text x="425" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">👑</text>
+  <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
+  <image href="luffy.png" x="380" y="85" width="90" height="90" clip-path="url(#circleMiddle)" />
   <!-- Details -->
-  <text x="425" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62" letter-spacing="1">HACKATHON CHAMP</text>
-  <text x="425" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Winners &amp; Finalists</text>
+  <text x="425" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffbc42" letter-spacing="1">KAGGLE MASTER</text>
+  <text x="425" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Top 100 Globally (Rank #90)</text>
   <!-- Bounty -->
-  <rect x="330" y="260" width="190" height="35" rx="5" fill="#ffbc42" opacity="0.9"/>
-  <text x="425" y="283" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="16" fill="#0d1117" letter-spacing="1">฿ 350,000,000</text>
+  <rect x="330" y="260" width="190" height="35" rx="5" fill="#ff5e62" opacity="0.9"/>
+  <text x="425" y="283" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="16" fill="#ffffff" letter-spacing="1">฿ 90,000,000,000</text>
 
-  <!-- Wanted Poster 3: MLOps Engineer -->
-  <rect x="580" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#34d399" stroke-width="3"/>
+  <!-- Wanted Poster 3: MLOps Engineer (Sanji) - Right -->
+  <rect x="580" y="20" width="230" height="300" rx="12" fill="#161b22" stroke="#ff5e62" stroke-width="3"/>
   <!-- Wanted header banner -->
-  <rect x="580" y="20" width="230" height="40" rx="0" fill="#34d399"/>
+  <rect x="580" y="20" width="230" height="40" rx="0" fill="#ff5e62"/>
   <text x="695" y="48" text-anchor="middle" font-family="Impact, Charcoal, sans-serif" font-size="22" font-weight="900" fill="#0d1117" letter-spacing="4">WANTED</text>
-  <!-- Icon in Center -->
-  <circle cx="695" cy="130" r="45" fill="#1f2937" stroke="#34d399" stroke-width="2"/>
+  <!-- Circle Frame and Fallback -->
+  <circle cx="695" cy="130" r="45" fill="#1f2937" stroke="#ff5e62" stroke-width="2"/>
   <text x="695" y="148" text-anchor="middle" font-size="50" font-family="system-ui, sans-serif">⛵</text>
+  <!-- Real image cropped in circle (Falls back to emoji if file missing) -->
+  <image href="sanji.png" x="650" y="85" width="90" height="90" clip-path="url(#circleRight)" />
   <!-- Details -->
-  <text x="695" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" letter-spacing="1">MLOPS ENGINEER</text>
+  <text x="695" y="210" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62" letter-spacing="1">MLOPS ENGINEER</text>
   <text x="695" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Navigating at SERENT</text>
   <!-- Bounty -->
   <rect x="600" y="260" width="190" height="35" rx="5" fill="#ff5e62" opacity="0.9"/>
