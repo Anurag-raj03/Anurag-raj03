@@ -250,31 +250,34 @@ As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my h
 
 Here are the credentials from my professional internships as an MLOps & Machine Learning Intern:
 
-<table width="100%" bgcolor="#0d1117">
-  <tr bgcolor="#0d1117">
-    <td width="33%" align="center" valign="top" bgcolor="#161b22">
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
       <a href="https://www.linkedin.com/company/useready/">
         <img src="https://img.shields.io/badge/🔮_USEReady-ML_Intern-ff5e62?style=for-the-badge&logo=openai&logoColor=white" alt="USEReady Internship Badge" />
       </a>
       <br/><br/>
-      <img src="./USEReady experince certificate.jpeg" width="100%" alt="USEReady Certificate" style="border: 2px solid #ff5e62;" /><br/>
-      <sub style="color: #cbd5e1;">RAG & Multi-Agent systems</sub>
+      <img src="./assets/cert-useready.svg?v=3" width="100%" alt="USEReady Certificate" />
+      <br/>
+      <sub>RAG & Multi-Agent systems</sub>
     </td>
-    <td width="33%" align="center" valign="top" bgcolor="#161b22">
+    <td width="33%" align="center" valign="top">
       <a href="https://www.linkedin.com/company/deepnet-analytics/">
         <img src="https://img.shields.io/badge/🐳_Deepnet-MLOps_Intern-ffbc42?style=for-the-badge&logo=docker&logoColor=white" alt="Deepnet Internship Badge" />
       </a>
       <br/><br/>
-      <img src="./Deepnet expernice certificate.jpeg" width="100%" alt="Deepnet Certificate" style="border: 2px solid #ffbc42;" /><br/>
-      <sub style="color: #cbd5e1;">Docker pipelines & CVAT PPE</sub>
+      <img src="./assets/cert-deepnet.svg?v=3" width="100%" alt="Deepnet Certificate" />
+      <br/>
+      <sub>Docker pipelines & CVAT PPE</sub>
     </td>
-    <td width="34%" align="center" valign="top" bgcolor="#161b22">
+    <td width="34%" align="center" valign="top">
       <a href="https://www.linkedin.com/company/mvdss-services/">
         <img src="https://img.shields.io/badge/⚓_MVDSS-ML_Intern-38bdf8?style=for-the-badge&logo=python&logoColor=white" alt="MVDSS Internship Badge" />
       </a>
       <br/><br/>
-      <img src="./MVDSS experince certificate.jpeg" width="100%" alt="MVDSS Certificate" style="border: 2px solid #38bdf8;" /><br/>
-      <sub style="color: #cbd5e1;">Recommenders & Price Elasticity</sub>
+      <img src="./assets/cert-mvdss.svg?v=3" width="100%" alt="MVDSS Certificate" />
+      <br/>
+      <sub>Recommenders & Price Elasticity</sub>
     </td>
   </tr>
 </table>
