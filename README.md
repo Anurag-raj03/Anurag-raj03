@@ -1,7 +1,3 @@
-<table width="100%" bgcolor="#0d1117">
-<tr>
-<td bgcolor="#0d1117" align="center">
-
 <!-- Header Banner (Reference to assets/header.svg) -->
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Anurag Raj Banner" />
@@ -29,9 +25,9 @@
   </a>
 </p>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🏴‍☠️ The Captain's Log (About Me)</h2>
+## 🏴‍☠️ The Captain's Log (About Me)
 
 <table width="100%" bgcolor="#0d1117">
   <tr valign="middle" bgcolor="#0d1117">
@@ -48,9 +44,9 @@
 
 <table width="100%" bgcolor="#0d1117">
   <tr bgcolor="#0d1117">
-    <td width="65%" valign="top" bgcolor="#161b22" align="left">
-      <p style="color: #cbd5e1; font-family: system-ui, -apple-system, sans-serif;">Ahoy! ⛵ I am <b>Anurag Raj</b>, an <b>MLOps & AI Platform Engineer</b> currently embarking on my next big voyage: joining <b>SERENT</b> as an MLOps Engineer. Just like navigating the unpredictable waters of the Grand Line, I design, automate, and monitor production-ready machine learning architectures that scale and survive under any condition.</p>
-      <ul style="color: #cbd5e1; font-family: system-ui, -apple-system, sans-serif;">
+    <td width="65%" valign="top" bgcolor="#161b22">
+      <p>Ahoy! ⛵ I am <b>Anurag Raj</b>, an <b>MLOps & AI Platform Engineer</b> currently embarking on my next big voyage: joining <b>SERENT</b> as an MLOps Engineer. Just like navigating the unpredictable waters of the Grand Line, I design, automate, and monitor production-ready machine learning architectures that scale and survive under any condition.</p>
+      <ul>
         <li>👑 <b>Kaggle Notebook Master (Rank #90 Globally):</b> Actively building and optimizing ML models, EDA pipelines, and deep learning notebooks.</li>
         <li>🤖 <b>Swarm & Multi-Agent systems:</b> Specialized in agentic workflows with the OpenAI Agents SDK, LangGraph, and Model Context Protocol (MCP).</li>
         <li>🧬 <b>RAG / Semantic Architectures:</b> Experienced in structuring dense/sparse vector search, metadata SQL pre-filtering, and graph retrieval pipelines using ChromaDB, Neo4j, and LlamaIndex.</li>
@@ -66,25 +62,25 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🗺️ The Grand Line: MLOps Career Voyage</h2>
+## 🗺️ The Grand Line: MLOps Career Voyage
 
-<p align="left" style="color: #cbd5e1; font-family: system-ui, -apple-system, sans-serif;">Here is the roadmap of my journey, mapping my professional progression in a zig-zag path from a student to my current role as an MLOps Engineer at SERENT:</p>
+Here is the roadmap of my journey, mapping my professional progression in a zig-zag path from a student to my current role as an MLOps Engineer at SERENT:
 
 <!-- Custom Vector Zig-Zag Career Voyage Map (Reference to assets/voyage-map.svg) -->
 <p align="center">
-  <img src="./assets/voyage-map.svg?v=4" width="100%" alt="MLOps Career Voyage Map" />
+  <img src="./assets/voyage-map.svg?v=3" width="100%" alt="MLOps Career Voyage Map" />
 </p>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🛠️ Arsenal of Weapons (Skills & Tools)</h2>
+## 🛠️ Arsenal of Weapons (Skills & Tools)
 
 <table width="100%" bgcolor="#0d1117">
   <tr bgcolor="#0d1117">
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
-      <h3 style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🧠 Machine Learning & LLM Orchestration</h3>
+    <td width="50%" valign="top" bgcolor="#161b22">
+      <h3 style="color: #ffbc42;">🧠 Machine Learning & LLM Orchestration</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -95,7 +91,7 @@
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
         <img src="https://img.shields.io/badge/FastMCP-000000?style=flat-square&logo=anthropic&logoColor=white" alt="FastMCP" />
       </p>
-      <h3 style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">💾 RAG Databases & Knowledge Graphs</h3>
+      <h3 style="color: #ffbc42;">💾 RAG Databases & Knowledge Graphs</h3>
       <p>
         <img src="https://img.shields.io/badge/ChromaDB-005B94?style=flat-square&logo=chromadb&logoColor=white" alt="ChromaDB" />
         <img src="https://img.shields.io/badge/Neo4j-45818C?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
@@ -104,8 +100,8 @@
         <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="S3" />
       </p>
     </td>
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
-      <h3 style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🚀 MLOps, CI/CD & Infrastructure</h3>
+    <td width="50%" valign="top" bgcolor="#161b22">
+      <h3 style="color: #ffbc42;">🚀 MLOps, CI/CD & Infrastructure</h3>
       <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -116,7 +112,7 @@
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
         <img src="https://img.shields.io/badge/Terraform%20IaC-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
       </p>
-      <h3 style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">☁️ Cloud & Development Environments</h3>
+      <h3 style="color: #ffbc42;">☁️ Cloud & Development Environments</h3>
       <p>
         <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -127,31 +123,33 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🥇 Kaggle Masterpieces</h2>
+## 🥇 Kaggle Masterpieces
+
+As a **Top 100 Kaggle Notebook Master (Global Rank #90)**, here are some of my highly recognized works:
 
 <table width="100%" bgcolor="#0d1117">
   <tr bgcolor="#0d1117">
-    <td width="33%" valign="top" bgcolor="#161b22" align="left">
-      <h4 style="color: #ffbc42;"><a href="https://www.kaggle.com/code/anuragraj03/ppe-detection-using-yolo-helmet-vest-others">🎯 PPE Detection (YOLO)</a></h4>
-      <p style="color: #cbd5e1; font-size: 13px;">End-to-end computer vision pipeline using YOLO to detect safety equipment (helmets, vests, etc.) with high precision and low inference latency.</p>
+    <td width="33%" valign="top" bgcolor="#161b22">
+      <h4>🎯 <a href="https://www.kaggle.com/code/anuragraj03/ppe-detection-using-yolo-helmet-vest-others">PPE Detection (YOLO)</a></h4>
+      <p>End-to-end computer vision pipeline using YOLO to detect safety equipment (helmets, vests, etc.) with high precision and low inference latency.</p>
       <p>
         <img src="https://img.shields.io/badge/YOLO-Object%20Detection-ff5e62?style=flat-square" /><br/>
         <img src="https://img.shields.io/badge/PyTorch-CV-green?style=flat-square" />
       </p>
     </td>
-    <td width="33%" valign="top" bgcolor="#161b22" align="left">
-      <h4 style="color: #ffbc42;"><a href="https://www.kaggle.com/code/anuragraj03/cat-vs-dog">🐱🐶 Cat vs Dog Classification</a></h4>
-      <p style="color: #cbd5e1; font-size: 13px;">Deep Learning CNN architecture designed and trained to classify cat and dog images, comparing performance across various transfer learning backbones.</p>
+    <td width="33%" valign="top" bgcolor="#161b22">
+      <h4>🐱🐶 <a href="https://www.kaggle.com/code/anuragraj03/cat-vs-dog">Cat vs Dog Classification</a></h4>
+      <p>Deep Learning CNN architecture designed and trained to classify cat and dog images, comparing performance across various transfer learning backbones.</p>
       <p>
         <img src="https://img.shields.io/badge/CNN-TensorFlow-blue?style=flat-square" /><br/>
         <img src="https://img.shields.io/badge/Transfer%20Learning-98%25%20Acc-purple?style=flat-square" />
       </p>
     </td>
-    <td width="34%" valign="top" bgcolor="#161b22" align="left">
-      <h4 style="color: #ffbc42;"><a href="https://www.kaggle.com/code/anuragraj03/eda-on-the-spotify-dataset">🎵 Spotify Dataset EDA</a></h4>
-      <p style="color: #cbd5e1; font-size: 13px;">Comprehensive exploratory data analysis and feature engineering pipeline on Spotify audio features to uncover acoustic trends and artist correlations.</p>
+    <td width="34%" valign="top" bgcolor="#161b22">
+      <h4>🎵 <a href="https://www.kaggle.com/code/anuragraj03/eda-on-the-spotify-dataset">Spotify Dataset EDA</a></h4>
+      <p>Comprehensive exploratory data analysis and feature engineering pipeline on Spotify audio features to uncover acoustic trends and artist correlations.</p>
       <p>
         <img src="https://img.shields.io/badge/EDA-Seaborn%20%26%20Pandas-orange?style=flat-square" /><br/>
         <img src="https://img.shields.io/badge/Feature%20Engineering-Insightful-yellow?style=flat-square" />
@@ -160,21 +158,21 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🏆 Featured Projects</h2>
+## 🏆 Featured Projects
 
 <table width="100%" bgcolor="#0d1117">
   <!-- Project Row 1 -->
   <tr bgcolor="#0d1117">
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
+    <td width="50%" valign="top" bgcolor="#161b22">
       <br/>
       <a href="https://github.com/Anurag-raj03/Auto-agent-skill-builder">
         <img src="https://img.shields.io/badge/🤖_Auto--Agent_Skill_Builder-ff5e62?style=for-the-badge&logo=openai&logoColor=white" alt="Auto-Agent Skill Builder" />
       </a>
       <br/><br/>
-      <p style="color: #cbd5e1;">Autonomous multi-agent system built on the OpenAI Agents SDK that routes requests, synthesizes knowledge, and writes its own tools dynamically.</p>
-      <ul style="color: #cbd5e1;">
+      <p>Autonomous multi-agent system built on the OpenAI Agents SDK that routes requests, synthesizes knowledge, and writes its own tools dynamically.</p>
+      <ul>
         <li><b>Background Synthesizer (ASSE):</b> dialogue parser generating Markdown tools & scripts.</li>
         <li><b>Two-tier Semantic Cache:</b> Persists embeddings in SQLite to prevent redundant API calls.</li>
         <li><b>Observability:</b> MLflow tracking and Langfuse integration.</li>
@@ -185,14 +183,14 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
+    <td width="50%" valign="top" bgcolor="#161b22">
       <br/>
       <a href="https://github.com/Anurag-raj03/BERT_ASSIGNMENT_MLOPS">
         <img src="https://img.shields.io/badge/🩺_Clinical_Assertion_BERT_API-ffbc42?style=for-the-badge&logo=fastapi&logoColor=white" alt="Clinical Assertion BERT API" />
       </a>
       <br/><br/>
-      <p style="color: #cbd5e1;">FastAPI inference service for clinical text assertion negation, optimized for instant, serverless execution on Google Cloud Run.</p>
-      <ul style="color: #cbd5e1;">
+      <p>FastAPI inference service for clinical text assertion negation, optimized for instant, serverless execution on Google Cloud Run.</p>
+      <ul>
         <li><b>⚡ Sub-500ms Cold Starts:</b> Hugging Face model weights baked directly into container layers.</li>
         <li><b>🧠 Singletion Lifespan:</b> Model loaded once into RAM, keeping predictions under 250ms.</li>
         <li><b>🔒 Release-Driven CD:</b> CI runs Pytest/Flake8; CD triggers strictly on semver tags (<code>v*.*.*</code>) to deploy to GCP.</li>
@@ -207,14 +205,14 @@
   
   <!-- Project Row 2 -->
   <tr bgcolor="#0d1117">
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
+    <td width="50%" valign="top" bgcolor="#161b22">
       <br/>
       <a href="https://github.com/Anurag-raj03/AI-KnowledgeHub">
         <img src="https://img.shields.io/badge/💡_AI--KnowledgeHub_LLMOps-38bdf8?style=for-the-badge&logo=langchain&logoColor=white" alt="AI-KnowledgeHub LLMOps Platform" />
       </a>
       <br/><br/>
-      <p style="color: #cbd5e1;">Full-fledged LLMOps platform integrating retrieval pipelines, multi-agent evaluation, and persistent dashboards.</p>
-      <ul style="color: #cbd5e1;">
+      <p>Full-fledged LLMOps platform integrating retrieval pipelines, multi-agent evaluation, and persistent dashboards.</p>
+      <ul>
         <li><b>LangGraph Swarm:</b> Structured supervisor-worker agent framework containing retrievers and evaluators.</li>
         <li><b>Hybrid Retrieval:</b> Combined metadata pre-filtering (NLP-to-SQL) with BM25 + FAISS + cross-encoder reranker.</li>
         <li><b>Storage:</b> DVC Ingestion pipeline pushing embeddings and metadata to AWS S3.</li>
@@ -225,14 +223,14 @@
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square" />
       </p>
     </td>
-    <td width="50%" valign="top" bgcolor="#161b22" align="left">
+    <td width="50%" valign="top" bgcolor="#161b22">
       <br/>
       <a href="https://github.com/Anurag-raj03/Rock-Paper-Scissors-MLOps">
         <img src="https://img.shields.io/badge/🕹️_Rock--Paper--Scissors_MLOps-34d399?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Rock-Paper-Scissors MLOps Pipeline" />
       </a>
       <br/><br/>
-      <p style="color: #cbd5e1;">End-to-end computer vision MLOps project classifying hand gestures and deployed with automatic CI/CD workflows.</p>
-      <ul style="color: #cbd5e1;">
+      <p>End-to-end computer vision MLOps project classifying hand gestures and deployed with automatic CI/CD workflows.</p>
+      <ul>
         <li><b>MobileNetV2:</b> Achieved 98% accuracy on gesture classifications.</li>
         <li><b>Airflow + DVC:</b> Automatic model retraining based on drift detection checks.</li>
         <li><b>Observability:</b> Prometheus metrics + Grafana monitoring dashboard tracking drift.</li>
@@ -246,9 +244,11 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">📜 Professional Experience Verifications</h2>
+## 📜 Professional Experience Verifications
+
+Here are the credentials from my professional internships as an MLOps & Machine Learning Intern:
 
 <table width="100%" bgcolor="#0d1117">
   <tr bgcolor="#0d1117">
@@ -279,9 +279,9 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🏆 Achievements & Pirate Bounties</h2>
+## 🏆 Achievements & Pirate Bounties
 
 <!-- Custom Styled Wanted Poster Board (Reference to assets/bounties.svg) -->
 <p align="center">
@@ -301,22 +301,22 @@
   </tr>
 </table>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">⚓ The Snake Game of Contribution</h2>
+## ⚓ The Snake Game of Contribution
 <p align="center">
   <!-- Note: This image will display a broken link until you run the Generate Snake Animation workflow in your repository for the first time! -->
   <img src="https://raw.githubusercontent.com/Anurag-raj03/Anurag-raj03/output/github-contribution-grid-snake-dark.svg" alt="Snake game grid animation" />
 </p>
 
-<hr style="border-color: #ffbc42;" />
+---
 
-<h2 align="left" style="color: #ffbc42; font-family: Impact, Charcoal, sans-serif;">🐌 Den Den Mushi Broadcasts (Quotes & Inspirations)</h2>
+## 🐌 Den Den Mushi Broadcasts (Quotes & Inspirations)
 <p align="center">
   <img src="./assets/quotes.svg?v=3" width="100%" alt="Animated Streaming Quotes" />
 </p>
 
-<hr style="border-color: #ffbc42;" />
+---
 
 <!-- Centered One Piece Anime Logo Signature with Typing Animation Subtitle -->
 <p align="center">
@@ -326,9 +326,5 @@
 </p>
 
 <p align="center">
-  <sub style="color: #cbd5e1;">Let's connect and build the next generation of AI Platforms! 🚀</sub>
+  <sub>Let's connect and build the next generation of AI Platforms! 🚀</sub>
 </p>
-
-</td>
-</tr>
-</table>
