@@ -4,53 +4,83 @@
 
   <!-- Winding Voyage Path (Golden Dotted Line) -->
   <path d="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430" stroke="#ffbc42" stroke-width="4" stroke-dasharray="8 6" />
-  
-  <!-- Ship Icons along the path -->
-  <text x="425" y="80" font-size="20" fill="#ffbc42">⛵</text>
-  <text x="685" y="175" font-size="20" fill="#ffbc42">⛵</text>
-  <text x="425" y="250" font-size="20" fill="#ffbc42">⛵</text>
-  <text x="165" y="345" font-size="20" fill="#ffbc42">⛵</text>
-  <text x="425" y="420" font-size="20" fill="#ffbc42">⛵</text>
 
   <!-- Node 1: East Blue (Student) -->
-  <rect x="50" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#a7f3d0" stroke-width="2" />
-  <text x="175" y="65" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#a7f3d0">🎓 1. THE EAST BLUE (Student)</text>
-  <text x="175" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">ITM University B.Tech CSE</text>
-  <text x="175" y="105" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Kaggle Notebook Master (#90)</text>
-  <text x="175" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Python, ML Models, PySpark</text>
+  <g opacity="0">
+    <rect x="50" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#a7f3d0" stroke-width="2" />
+    <text x="175" y="65" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#a7f3d0">🎓 1. THE EAST BLUE (Student)</text>
+    <text x="175" y="85" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">ITM University B.Tech CSE</text>
+    <text x="175" y="105" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Kaggle Notebook Master (#90)</text>
+    <text x="175" y="125" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Python, ML Models, PySpark</text>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
 
   <!-- Node 2: Entering Grand Line (MVDSS) -->
-  <rect x="550" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#38bdf8" stroke-width="2" />
-  <text x="675" y="60" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">🏜️ 2. ALABASTA (MVDSS SERVICES)</text>
-  <text x="675" y="80" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">ML Intern</text>
-  <text x="675" y="100" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Price Elasticity &amp; Recommenders</text>
-  <text x="675" y="120" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">15% Recommendation Acc Boost</text>
+  <g opacity="0">
+    <rect x="550" y="35" width="250" height="110" rx="10" fill="#161b22" stroke="#38bdf8" stroke-width="2" />
+    <text x="675" y="60" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#38bdf8">🏜️ 2. ALABASTA (MVDSS SERVICES)</text>
+    <text x="675" y="80" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">ML Intern</text>
+    <text x="675" y="100" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Price Elasticity &amp; Recommenders</text>
+    <text x="675" y="120" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">15% Recommendation Acc Boost</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.18;0.22;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
 
   <!-- Node 3: Water 7 (Deepnet) -->
-  <rect x="550" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f472b6" stroke-width="2" />
-  <text x="675" y="230" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#f472b6">🐳 3. WATER 7 (Deepnet Analytics)</text>
-  <text x="675" y="250" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">MLOps Intern</text>
-  <text x="675" y="270" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Deployed CVAT on AWS EC2/S3</text>
-  <text x="675" y="290" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Dockerized Pipelines &amp; Terraform</text>
+  <g opacity="0">
+    <rect x="550" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f472b6" stroke-width="2" />
+    <text x="675" y="230" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="bold" fill="#f472b6">🐳 3. WATER 7 (Deepnet Analytics)</text>
+    <text x="675" y="250" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="bold" fill="#e2e8f0">MLOps Intern</text>
+    <text x="675" y="270" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Deployed CVAT on AWS EC2/S3</text>
+    <text x="675" y="290" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Dockerized Pipelines &amp; Terraform</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.30;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
 
   <!-- Node 4: Sabaody (USEReady) -->
-  <rect x="50" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f87171" stroke-width="2" />
-  <text x="175" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#f87171">🔮 4. SABAODY (USEReady)</text>
-  <text x="175" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Machine Learning Intern</text>
-  <text x="175" y="275" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Snowflake Multi-Agent RAG</text>
-  <text x="175" y="295" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Langfuse &amp; Hybrid BM25 Search</text>
+  <g opacity="0">
+    <rect x="50" y="205" width="250" height="110" rx="10" fill="#161b22" stroke="#f87171" stroke-width="2" />
+    <text x="175" y="235" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#f87171">🔮 4. SABAODY (USEReady)</text>
+    <text x="175" y="255" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Machine Learning Intern</text>
+    <text x="175" y="275" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Snowflake Multi-Agent RAG</text>
+    <text x="175" y="295" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Langfuse &amp; Hybrid BM25 Search</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.45;0.50;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
 
   <!-- Node 5: New World (SERENT) -->
-  <rect x="50" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#ff5e62" stroke-width="2" />
-  <text x="175" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62">👑 5. NEW WORLD (SERENT)</text>
-  <text x="175" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">MLOps Engineer</text>
-  <text x="175" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Production Scaling &amp; Cloud Run</text>
-  <text x="175" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Serverless APIs &amp; CI/CD Tagging</text>
+  <g opacity="0">
+    <rect x="50" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#ff5e62" stroke-width="2" />
+    <text x="175" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ff5e62">👑 5. NEW WORLD (SERENT)</text>
+    <text x="175" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">MLOps Engineer</text>
+    <text x="175" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Production Scaling &amp; Cloud Run</text>
+    <text x="175" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Serverless APIs &amp; CI/CD Tagging</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.52;0.57;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
 
-  <!-- Node 6: Pirate King (Monitoring & Learning) -->
-  <rect x="550" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#34d399" stroke-width="2" />
-  <text x="675" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399">📡 6. THE HORIZON (MLOps)</text>
-  <text x="675" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Continuous Drift &amp; Retraining</text>
-  <text x="675" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Evidently AI &amp; Grafana Loops</text>
-  <text x="675" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Auto-Agent Skill Builder &amp; MCP</text>
+  <!-- Node 6: The Horizon (MLOps) -->
+  <g opacity="0">
+    <rect x="550" y="375" width="250" height="110" rx="10" fill="#161b22" stroke="#34d399" stroke-width="2" />
+    <text x="675" y="405" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399">📡 6. THE HORIZON (MLOps)</text>
+    <text x="675" y="425" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#e2e8f0">Continuous Drift &amp; Retraining</text>
+    <text x="675" y="445" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Evidently AI &amp; Grafana Loops</text>
+    <text x="675" y="465" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#8892b0">Auto-Agent Skill Builder &amp; MCP</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.72;0.76;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Animated Sailing Ship ⛵ -->
+  <g>
+    <text font-size="32" text-anchor="middle" dominant-baseline="central">⛵</text>
+    <animateMotion 
+      dur="12s" 
+      repeatCount="indefinite" 
+      path="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430"
+      keyTimes="0; 0.20; 0.27; 0.48; 0.55; 0.75; 0.95; 1"
+      keyPoints="0; 0.27; 0.36; 0.64; 0.73; 1.00; 1.00; 0"
+    />
+    <animate 
+      attributeName="opacity" 
+      values="1; 1; 0; 1" 
+      keyTimes="0; 0.95; 0.98; 1" 
+      dur="12s" 
+      repeatCount="indefinite" 
+    />
+  </g>
 </svg>
