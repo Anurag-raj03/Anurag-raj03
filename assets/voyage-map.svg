@@ -65,22 +65,31 @@
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.72;0.76;0.95;0.98;1" dur="12s" repeatCount="indefinite" />
   </g>
 
-  <!-- Animated Sailing Ship ⛵ -->
+  <!-- Animated Vector Sailing Ship -->
   <g>
-    <text font-size="32" text-anchor="middle" dominant-baseline="central">⛵</text>
+    <!-- Hull -->
+    <path d="M -12 2 L 12 2 L 8 8 L -8 8 Z" fill="#ffbc42"/>
+    <!-- Mast -->
+    <line x1="0" y1="2" x2="0" y2="-12" stroke="#ffbc42" stroke-width="1.5"/>
+    <!-- Main Sail -->
+    <path d="M 0 -12 L 8 0 L 0 0 Z" fill="#ff5e62"/>
+    <!-- Jib Sail -->
+    <path d="M -1 -12 L -7 0 L -1 0 Z" fill="#38bdf8"/>
+    
+    <animate 
+      attributeName="opacity" 
+      values="1;1;0;1" 
+      keyTimes="0;0.95;0.98;1" 
+      dur="12s" 
+      repeatCount="indefinite" 
+    />
     <animateMotion 
       dur="12s" 
       repeatCount="indefinite" 
       path="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430"
-      keyTimes="0; 0.20; 0.27; 0.48; 0.55; 0.75; 0.95; 1"
-      keyPoints="0; 0.27; 0.36; 0.64; 0.73; 1.00; 1.00; 0"
-    />
-    <animate 
-      attributeName="opacity" 
-      values="1; 1; 0; 1" 
-      keyTimes="0; 0.95; 0.98; 1" 
-      dur="12s" 
-      repeatCount="indefinite" 
+      keyTimes="0;0.20;0.27;0.48;0.55;0.75;0.95;1"
+      keyPoints="0;0.27;0.36;0.64;0.73;1.00;1.00;0"
+      calcMode="linear"
     />
   </g>
 </svg>
