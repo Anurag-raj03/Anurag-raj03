@@ -3,7 +3,7 @@
   <rect width="850" height="520" rx="15" fill="#0d1117"/>
 
   <!-- Winding Voyage Path (Golden Dotted Line) -->
-  <path d="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430" stroke="#ffbc42" stroke-width="4" stroke-dasharray="8 6" />
+  <path d="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 520 430" stroke="#ffbc42" stroke-width="4" stroke-dasharray="8 6" />
 
   <!-- Node 1: East Blue (Student) -->
   <g opacity="0">
@@ -86,9 +86,9 @@
     <animateMotion 
       dur="12s" 
       repeatCount="indefinite" 
-      path="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 675 430"
-      keyTimes="0;0.20;0.27;0.48;0.55;0.75;0.95;1"
-      keyPoints="0;0.27;0.36;0.64;0.73;1.00;1.00;0"
+      path="M 175 90 L 675 90 L 675 260 L 175 260 L 175 430 L 520 430"
+      keyTimes="0;0.225;0.30;0.52;0.60;0.75;0.95;1"
+      keyPoints="0;0.30;0.40;0.69;0.80;1.00;1.00;0"
       calcMode="linear"
     />
   </g>
